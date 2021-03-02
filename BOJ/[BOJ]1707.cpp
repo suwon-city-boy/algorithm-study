@@ -33,7 +33,6 @@ int main()
     {   
         int v, e;
         scanf("%d %d", &v, &e);
-
         
         for (int i = 0; i < v; i++) {
             a[i].clear();
