@@ -50,6 +50,7 @@ int main() {
 
 	dfs(z);
 	puts("");
+	
 	memset(check, false, sizeof(check));
 	bfs(z);
 	puts("");
