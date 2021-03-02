@@ -3,6 +3,7 @@
 #include <cstring>
 using namespace std;
 int d[100001];
+
 int main()
 {
     int n, k;
